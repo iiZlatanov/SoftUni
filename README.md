@@ -1,1 +1,1 @@
-# Softuni-Advanced
+Main softuni course

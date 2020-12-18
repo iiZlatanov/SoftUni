@@ -1,0 +1,16 @@
+h1, h2 {
+    background: red;
+    font-size: 45px;
+
+}
+
+form {
+    background: #234522;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h5.heading,
+h6.heading {
+    color: pink;
+}
