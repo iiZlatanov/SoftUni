@@ -7,6 +7,7 @@ while to_do_notes != 'End':
     number = (int(data[0])) - 1
     actual_list.insert(number, data[1])
     to_do_notes = input()
+    actual_list.pop(int(data[0]))
 
 for el in actual_list:
     if el != 0:
