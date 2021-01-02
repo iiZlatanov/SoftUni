@@ -1,7 +1,6 @@
-list_of_words = input().split()
-searched_palindrome = input()
-palindromes_list = [el for el in list_of_words if el == el[::-1]]
-searched_palindrome_count = palindromes_list.count(searched_palindrome)
+numbers = input().split(", ")
+result_list = []
 
-print(palindromes_list)
-print(f"Found palindrome {searched_palindrome_count} times")
+for num in numbers:
+    if num % 2 == 0:
+        result_list.append(num[index])
