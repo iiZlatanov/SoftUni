@@ -26,6 +26,8 @@ while command != "End":
             targets_values.pop(index)
             while radius != 0:
                 targets_values.pop(index)
+                targets_values.pop(index - 1)
+                index -= 1
                 radius -= 1
         else:
             print("Strike missed!")
