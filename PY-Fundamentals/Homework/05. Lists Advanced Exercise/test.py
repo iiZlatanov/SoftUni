@@ -1,2 +1,3 @@
+random_llist = []
 
-r = 3
+print(len(random_llist))
