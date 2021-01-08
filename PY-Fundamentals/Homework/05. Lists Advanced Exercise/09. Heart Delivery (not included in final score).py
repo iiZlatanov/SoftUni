@@ -25,7 +25,8 @@ for element in hearts_needed_list:
         flag = True
 
 if flag is False:
-    print("Mission was successful")
+    print(f"Cupid's last position was {position_index}.")
+    print("Mission was successful.")
 else:
     print(f"Cupid's last position was {position_index}.")
     print(f"Cupid has failed {len(failed_houses_list)} places.")
