@@ -5,8 +5,7 @@ for _ in range(number):
     key = input()
     value = input()
     if key not in words_dict:
-        words_dict[key] = []
-        words_dict[key].append(value)
+        words_dict[key] = [value]
     else:
         words_dict[key].append(value)
 
