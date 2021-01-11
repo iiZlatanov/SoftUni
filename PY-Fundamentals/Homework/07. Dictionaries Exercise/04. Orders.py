@@ -2,10 +2,9 @@ command = input()
 product_dict = {}
 
 while command != "buy":
-    product_price_quantity_list = command.split()
-    product = product_price_quantity_list[0]
-    price = float(product_price_quantity_list[1])
-    quantity = int(product_price_quantity_list[2])
+    product, price, quantity = command.split()
+    price = float(price)
+    quantity = int(quantity)
     if product not in product_dict:
         product_dict[product] = [price, quantity]
     else:
