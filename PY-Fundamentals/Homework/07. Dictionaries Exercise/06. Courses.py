@@ -1,18 +1,29 @@
 command = input()
-courses_and_participants = {}
+participants = {}
 courses_lengths = {}
 
 while command != "end":
     data = command.split(" : ")
     course = data[0]
     student = data[1]
-    if course not in courses_and_participants:
+    if course not in courses_lengths:
         courses_lengths[course] = 1
-        courses_and_participants[course] = [student]
     else:
         courses_lengths[course] += 1
-        courses_and_participants[course].append(student)
+
+    if course not in participants:
+        participants[course] = [student]
+    else:
+        participants[course].append(student)
+
     command = input()
 
-ordered_courses_and_participants = dict(sorted(courses_and_participants.values(), key=lambda x: x(len)))
-print(ordered_courses_and_participants)
+ordered_courses_lengths = dict(sorted(courses_lengths.items(), key=lambda x: -x[1]))
+ordered_participants = {x: sorted(participants[x]) for x in participants.keys()}
+
+for key, value in ordered_courses_lengths.items():
+    print(f"{key}: {value}")
+    for keys, values in ordered_participants.items():
+        if keys == key:
+            x = "\n-- ".join(values)
+            print(f"-- {x}")
