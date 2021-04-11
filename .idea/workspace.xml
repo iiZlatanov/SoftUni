@@ -19,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.03. Fast Food">
+  <component name="RunManager" selected="Python.10. Cups and Bottles (not included in final score)">
     <configuration name="01. Reverse Numbers with a Stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Robotics (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Crossroads (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +95,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/07. Robotics (not included in final score).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10. Cups and Bottles (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/10. Cups and Bottles (not included in final score).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10. Cups and Bottles (not included in final score)" />
+        <item itemvalue="Python.08. Crossroads (not included in final score)" />
         <item itemvalue="Python.03. Fast Food" />
         <item itemvalue="Python.02. Maximum and Minimum Element" />
         <item itemvalue="Python.01. Reverse Numbers with a Stack" />
-        <item itemvalue="Python.07. Robotics (not included in final score)" />
       </list>
     </recent_temporary>
   </component>
@@ -125,38 +147,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1618153200639">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1618163526272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618153200639" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1618153200639">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1618163526272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618153200639" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1618153200639">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1618163526272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618153200639" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1618153200639">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1618163526272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618153200639" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1618151351262">
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1618163469465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618151351262" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1618151351261">
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469465" />
+    <state width="1899" height="221" key="GridCell.Tab.1.center" timestamp="1618163469463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618151351261" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1618151351261">
+    <state width="1899" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469463" />
+    <state width="1899" height="221" key="GridCell.Tab.1.left" timestamp="1618163469462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618151351261" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1618151351261">
+    <state width="1899" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469462" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right" timestamp="1618163469464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618151351261" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469464" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
