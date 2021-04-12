@@ -21,8 +21,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Python.04. Parking Lot">
-    <configuration name="01. Count Same Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. Square with Maximum Sum">
+    <configuration name="01. Sum Matrix Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -30,11 +30,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets/01. Count Same Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists/01. Sum Matrix Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -43,7 +43,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Average Student Grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Sum Matrix Columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets/02. Average Student Grades.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists/02. Sum Matrix Columns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Record Unique Names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Primary Diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets/03. Record Unique Names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists/03. Primary Diagonal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Parking Lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Square with Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets/04. Parking Lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists/05. Square with Maximum Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Battle of Names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/07. Battle of Names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/03. Multidimensional Lists/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04. Parking Lot" />
-        <item itemvalue="Python.03. Record Unique Names" />
-        <item itemvalue="Python.02. Average Student Grades" />
-        <item itemvalue="Python.01. Count Same Values" />
-        <item itemvalue="Python.07. Battle of Names" />
+        <item itemvalue="Python.05. Square with Maximum Sum" />
+        <item itemvalue="Python.03. Primary Diagonal" />
+        <item itemvalue="Python.02. Sum Matrix Columns" />
+        <item itemvalue="Python.01. Sum Matrix Elements" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -149,38 +149,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1618252493254">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1618258772719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252493254" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1618252493254">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618258772719" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1618258772719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252493254" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1618252493254">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618258772719" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1618258772719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252493254" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1618252493254">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618258772719" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1618258772719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252493254" />
-    <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1618252118645">
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618258772719" />
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1618257967828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252118645" />
-    <state width="1899" height="221" key="GridCell.Tab.1.center" timestamp="1618252118643">
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618257967828" />
+    <state width="1899" height="221" key="GridCell.Tab.1.center" timestamp="1618257967828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252118643" />
-    <state width="1899" height="221" key="GridCell.Tab.1.left" timestamp="1618252118643">
+    <state width="1899" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618257967828" />
+    <state width="1899" height="221" key="GridCell.Tab.1.left" timestamp="1618257967828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252118643" />
-    <state width="1899" height="221" key="GridCell.Tab.1.right" timestamp="1618252118644">
+    <state width="1899" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618257967828" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right" timestamp="1618257967828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618252118644" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618257967828" />
     <state x="588" y="330" key="SettingsEditor" timestamp="1618222046182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
