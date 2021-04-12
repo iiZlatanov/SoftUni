@@ -18,9 +18,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Python.10. Cups and Bottles (not included in final score)">
-    <configuration name="01. Reverse Numbers with a Stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. Phonebook">
+    <configuration name="01. Unique Usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -28,11 +30,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/01. Unique Usernames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -41,7 +43,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Maximum and Minimum Element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Sets of Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/02. Sets of Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Fast Food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Periodic Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/03. Fast Food.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/03. Periodic Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08. Crossroads (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Count Symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/04. Count Symbols.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10. Cups and Bottles (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/10. Cups and Bottles (not included in final score).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/05. Phonebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10. Cups and Bottles (not included in final score)" />
-        <item itemvalue="Python.08. Crossroads (not included in final score)" />
-        <item itemvalue="Python.03. Fast Food" />
-        <item itemvalue="Python.02. Maximum and Minimum Element" />
-        <item itemvalue="Python.01. Reverse Numbers with a Stack" />
+        <item itemvalue="Python.05. Phonebook" />
+        <item itemvalue="Python.04. Count Symbols" />
+        <item itemvalue="Python.03. Periodic Table" />
+        <item itemvalue="Python.02. Sets of Elements" />
+        <item itemvalue="Python.01. Unique Usernames" />
       </list>
     </recent_temporary>
   </component>
@@ -147,38 +149,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1618163526272">
+    <state width="1899" height="221" key="GridCell.Tab.0.bottom" timestamp="1618229430790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1618163526272">
+    <state width="1899" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229430790" />
+    <state width="1899" height="221" key="GridCell.Tab.0.center" timestamp="1618229430790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1618163526272">
+    <state width="1899" height="221" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229430790" />
+    <state width="1899" height="221" key="GridCell.Tab.0.left" timestamp="1618229430790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1618163526272">
+    <state width="1899" height="221" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229430790" />
+    <state width="1899" height="221" key="GridCell.Tab.0.right" timestamp="1618229430790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163526272" />
-    <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1618163469465">
+    <state width="1899" height="221" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229430790" />
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1618229415238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469465" />
-    <state width="1899" height="221" key="GridCell.Tab.1.center" timestamp="1618163469463">
+    <state width="1899" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229415238" />
+    <state width="1899" height="221" key="GridCell.Tab.1.center" timestamp="1618229415238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469463" />
-    <state width="1899" height="221" key="GridCell.Tab.1.left" timestamp="1618163469462">
+    <state width="1899" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229415238" />
+    <state width="1899" height="221" key="GridCell.Tab.1.left" timestamp="1618229415238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469462" />
-    <state width="1899" height="221" key="GridCell.Tab.1.right" timestamp="1618163469464">
+    <state width="1899" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229415238" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right" timestamp="1618229415238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618163469464" />
+    <state width="1899" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618229415238" />
+    <state x="588" y="330" key="SettingsEditor" timestamp="1618222046182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="330" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618222046182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +193,11 @@
           <url>file://$PROJECT_DIR$/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element.py</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/Homework/02. Tuples And Sets Exercise/05. Phonebook.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
