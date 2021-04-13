@@ -6,7 +6,7 @@ for _ in range(rows):
 
 command = input().split()
 
-while True:
+while command[0] != "END":
     if command[0] != "swap" or len(command) != 5 or int(command[1]) > (rows - 1) or int(command[2]) > (columns - 1) \
             or int(command[3]) > (rows - 1) or int(command[4]) > (columns - 1):
         print("Invalid input!")
@@ -20,5 +20,3 @@ while True:
                 print(element, end=" ")
             print()
     command = input().split()
-    if command[0] == "END":
-        break
