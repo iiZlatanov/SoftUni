@@ -1,17 +1,18 @@
-operator = input()
-number_1 = int(input())
-number_2 = int(input())
+operator, first_num, second_num = input(), int(input()), int(input())
 
 
-def calculations(first_number, second_number):
+def calculations(parameter_one: int, parameter_two: int):
+    result = None
     if operator == "multiply":
-        return first_number * second_number
+        result = parameter_one * parameter_two
     elif operator == "divide":
-        return int(first_number / second_number)
+        result = int(parameter_one / parameter_two)
     elif operator == "add":
-        return first_number + second_number
+        result = parameter_one + parameter_two
     elif operator == "subtract":
-        return first_number - second_number
+        result = parameter_one - parameter_two
+
+    return result
 
 
-print(calculations(number_1, number_2))
+print(calculations(first_num, second_num))
