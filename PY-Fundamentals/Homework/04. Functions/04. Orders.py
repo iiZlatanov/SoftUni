@@ -1,19 +1,18 @@
-product = input()
-quantity = int(input())
+product_data, quantity_data = input(), int(input())
 
 
-def calculating(product, quantity):
+def total_price_of_an_order(product: str, quantity: int):
     result = None
     if product == "coffee":
-        result = quantity * 1.50
+        result = quantity * 1.5
     elif product == "water":
-        result = quantity * 1.00
+        result = quantity * 1.0
     elif product == "coke":
-        result = quantity * 1.40
+        result = quantity * 1.4
     elif product == "snacks":
-        result = quantity * 2.00
+        result = quantity * 2.0
+
     return result
 
 
-end_result = calculating(product, quantity)
-print(f"{end_result:.2f}")
+print(f"{total_price_of_an_order(product_data, quantity_data):.2f}")
