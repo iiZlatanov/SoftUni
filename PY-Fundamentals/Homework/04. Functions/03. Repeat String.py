@@ -1,10 +1,9 @@
-word = input()
-number_of_reps = int(input())
+given_string, repeat_count = input(), int(input())
 
 
-def repeat_string(string, rep):
-    result = string * rep
+def string_multiplication(string_data: str, multiplication_number: int):
+    result = string_data * multiplication_number
     return result
 
 
-print(repeat_string(word, number_of_reps))
+print(string_multiplication(given_string, repeat_count))
