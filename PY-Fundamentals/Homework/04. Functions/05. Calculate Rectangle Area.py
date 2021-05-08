@@ -1,10 +1,9 @@
-width = int(input())
-height = int(input())
+width_data, length_data = int(input()), int(input())
 
 
-def area_of_rectangle(width, height):
-    result = width * height
+def rectangle_area_calculation(width: int, length: int):
+    result = width * length
     return result
 
 
-print(area_of_rectangle(width, height))
+print(rectangle_area_calculation(width_data, length_data))
