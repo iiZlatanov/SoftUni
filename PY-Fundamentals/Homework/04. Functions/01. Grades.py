@@ -1,17 +1,18 @@
 grade_data = float(input())
 
 
-def solve(grade):
+def grade_calculator(grade: float):
     if 2.00 <= grade <= 2.99:
-        return 'Fail'
+        return "Fail"
     elif 3.00 <= grade <= 3.49:
-        return 'Poor'
+        return "Poor"
     elif 3.50 <= grade <= 4.49:
-        return 'Good'
+        return "Good"
     elif 4.50 <= grade <= 5.49:
-        return 'Very Good'
+        return "Very good"
     elif 5.50 <= grade <= 6.00:
-        return 'Excellent'
+        return "Excellent"
 
 
-print(solve(grade_data))
+print(grade_calculator(grade_data))
+
