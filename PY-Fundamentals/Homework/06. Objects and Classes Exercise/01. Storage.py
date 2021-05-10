@@ -11,6 +11,7 @@ class Storage:
             self.storage.append(product)
 
 
+
 # storage = Storage(4)
 # storage.add_product("apple")
 # storage.add_product("banana")
