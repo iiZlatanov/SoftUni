@@ -1,6 +1,6 @@
 class Weapon:
-    def __init__(self, bullets):
-        self.bullets = bullets
+    def __init__(self, initial_bullets: int):
+        self.bullets = initial_bullets
 
     def shoot(self):
         if self.bullets:
@@ -10,13 +10,3 @@ class Weapon:
 
     def __repr__(self):
         return f"Remaining bullets: {self.bullets}"
-
-
-# weapon = Weapon(5)
-# weapon.shoot()
-# weapon.shoot()
-# weapon.shoot()
-# weapon.shoot()
-# weapon.shoot()
-# weapon.shoot()
-# print(weapon)
