@@ -21,7 +21,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.04. Town">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="01. Storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +85,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05. Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes Exercise/05. Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,34 +127,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.05. Class" />
         <item itemvalue="Python.04. Town" />
         <item itemvalue="Python.03. Catalogue" />
-        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.01. Storage" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -149,22 +149,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="374" key="GridCell.Tab.0.bottom" timestamp="1620654762449">
+    <state width="1899" height="374" key="GridCell.Tab.0.bottom" timestamp="1620737871860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620654762449" />
-    <state width="1899" height="374" key="GridCell.Tab.0.center" timestamp="1620654762448">
+    <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620737871860" />
+    <state width="1899" height="374" key="GridCell.Tab.0.center" timestamp="1620737871859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620654762448" />
-    <state width="1899" height="374" key="GridCell.Tab.0.left" timestamp="1620654762448">
+    <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620737871859" />
+    <state width="1899" height="374" key="GridCell.Tab.0.left" timestamp="1620737871859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620654762448" />
-    <state width="1899" height="374" key="GridCell.Tab.0.right" timestamp="1620654762448">
+    <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620737871859" />
+    <state width="1899" height="374" key="GridCell.Tab.0.right" timestamp="1620737871859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620654762448" />
+    <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1620737871859" />
     <state width="1899" height="221" key="GridCell.Tab.1.bottom" timestamp="1620580949324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
