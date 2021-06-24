@@ -21,7 +21,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.02. No Vowels">
+  <component name="RunManager" selected="Python.04. Flattening Matrix">
     <configuration name="01. ASCII Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Movie (not included in final score)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Even Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes Exercise/09. Movie (not included in final score).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension/03. Even Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Flattening Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension Exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension/04. Flattening Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04. Flattening Matrix" />
+        <item itemvalue="Python.03. Even Matrix" />
         <item itemvalue="Python.02. No Vowels" />
         <item itemvalue="Python.01. ASCII Values" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.09. Movie (not included in final score)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,50 +149,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="374" key="GridCell.Tab.0.bottom" timestamp="1624560664462">
+    <state width="1899" height="374" key="GridCell.Tab.0.bottom" timestamp="1624562829360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624560664462" />
+    <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562829360" />
     <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624282646531" />
-    <state width="1899" height="374" key="GridCell.Tab.0.center" timestamp="1624560664462">
+    <state width="1899" height="374" key="GridCell.Tab.0.center" timestamp="1624562829360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624560664462" />
+    <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562829360" />
     <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624282646531" />
-    <state width="1899" height="374" key="GridCell.Tab.0.left" timestamp="1624560664462">
+    <state width="1899" height="374" key="GridCell.Tab.0.left" timestamp="1624562829360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624560664462" />
+    <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562829360" />
     <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624282646531" />
-    <state width="1899" height="374" key="GridCell.Tab.0.right" timestamp="1624560664462">
+    <state width="1899" height="374" key="GridCell.Tab.0.right" timestamp="1624562829360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624560664462" />
+    <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562829360" />
     <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624282646531" />
-    <state width="1899" height="326" key="GridCell.Tab.1.bottom" timestamp="1623619743970">
+    <state width="1899" height="326" key="GridCell.Tab.1.bottom" timestamp="1624562776511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1623619743970" />
-    <state width="1899" height="326" key="GridCell.Tab.1.center" timestamp="1623619743970">
+    <state width="1899" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562776511" />
+    <state width="1899" height="326" key="GridCell.Tab.1.center" timestamp="1624562776511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="326" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1623619743970" />
-    <state width="1899" height="326" key="GridCell.Tab.1.left" timestamp="1623619743970">
+    <state width="1899" height="326" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562776511" />
+    <state width="1899" height="326" key="GridCell.Tab.1.left" timestamp="1624562776511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="326" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1623619743970" />
-    <state width="1899" height="326" key="GridCell.Tab.1.right" timestamp="1623619743970">
+    <state width="1899" height="326" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562776511" />
+    <state width="1899" height="326" key="GridCell.Tab.1.right" timestamp="1624562776511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="326" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1623619743970" />
+    <state width="1899" height="326" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624562776511" />
     <state x="398" y="224" key="SettingsEditor" timestamp="1618314903132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="398" y="224" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618314903132" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1623611175105">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1624561145981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1623611175105" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624561145981" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,6 +226,11 @@
           <url>file://$PROJECT_DIR$/PY-Fundamentals/Homework/06. Objects and Classes Exercise/09. Movie (not included in final score).py</url>
           <line>23</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/Homework/04. Comprehension/03. Even Matrix.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
