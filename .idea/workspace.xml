@@ -21,8 +21,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.06. Character Combinations">
-    <configuration name="04. Operate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="05. Odd or Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -30,11 +30,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/04. Operate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise/05. Odd or Even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -43,7 +43,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Person Info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. Arguments Length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/05. Person Info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise/06. Arguments Length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Character Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Concatenate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/06. Character Combinations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise/07. Concatenate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Even or Odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/07. Chairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise/08. Even or Odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced Exercise/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06. Character Combinations" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.07. Chairs" />
-        <item itemvalue="Python.05. Person Info" />
-        <item itemvalue="Python.04. Operate" />
+        <item itemvalue="Python.08. Even or Odd" />
+        <item itemvalue="Python.07. Concatenate" />
+        <item itemvalue="Python.06. Arguments Length" />
+        <item itemvalue="Python.05. Odd or Even" />
       </list>
     </recent_temporary>
   </component>
@@ -149,61 +149,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="285" key="GridCell.Tab.0.bottom" timestamp="1627048131984">
+    <state width="1515" height="281" key="GridCell.Tab.0.bottom" timestamp="1627066822935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="281" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1625959757342" />
     <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625692110566" />
-    <state width="1515" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048131984" />
+    <state width="1515" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627066822935" />
     <state width="1515" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625782165268" />
     <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838113604" />
     <state width="1899" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625779659107" />
-    <state width="1515" height="285" key="GridCell.Tab.0.center" timestamp="1627048131983">
+    <state width="1515" height="281" key="GridCell.Tab.0.center" timestamp="1627066822935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="281" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1625959757342" />
     <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625692110566" />
-    <state width="1515" height="285" key="GridCell.Tab.0.center/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048131983" />
+    <state width="1515" height="281" key="GridCell.Tab.0.center/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627066822935" />
     <state width="1515" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625782165267" />
     <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838113603" />
     <state width="1899" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625779659107" />
-    <state width="1515" height="285" key="GridCell.Tab.0.left" timestamp="1627048131983">
+    <state width="1515" height="281" key="GridCell.Tab.0.left" timestamp="1627066822935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="281" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1625959757342" />
     <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625692110565" />
-    <state width="1515" height="285" key="GridCell.Tab.0.left/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048131983" />
+    <state width="1515" height="281" key="GridCell.Tab.0.left/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627066822935" />
     <state width="1515" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625782165267" />
     <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838113603" />
     <state width="1899" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625779659106" />
-    <state width="1515" height="285" key="GridCell.Tab.0.right" timestamp="1627048131984">
+    <state width="1515" height="281" key="GridCell.Tab.0.right" timestamp="1627066822935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="281" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1625959757342" />
     <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625692110566" />
-    <state width="1515" height="285" key="GridCell.Tab.0.right/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048131984" />
+    <state width="1515" height="281" key="GridCell.Tab.0.right/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627066822935" />
     <state width="1515" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625782165267" />
     <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838113603" />
     <state width="1899" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625779659107" />
-    <state width="1515" height="285" key="GridCell.Tab.1.bottom" timestamp="1627048125798">
+    <state width="1515" height="285" key="GridCell.Tab.1.bottom" timestamp="1627048674114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048125798" />
+    <state width="1515" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048674114" />
     <state width="1899" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838102019" />
-    <state width="1515" height="285" key="GridCell.Tab.1.center" timestamp="1627048125798">
+    <state width="1515" height="285" key="GridCell.Tab.1.center" timestamp="1627048674113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.1.center/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048125798" />
+    <state width="1515" height="285" key="GridCell.Tab.1.center/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048674113" />
     <state width="1899" height="326" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838102019" />
-    <state width="1515" height="285" key="GridCell.Tab.1.left" timestamp="1627048125798">
+    <state width="1515" height="285" key="GridCell.Tab.1.left" timestamp="1627048674113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.1.left/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048125798" />
+    <state width="1515" height="285" key="GridCell.Tab.1.left/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048674113" />
     <state width="1899" height="326" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838102019" />
-    <state width="1515" height="285" key="GridCell.Tab.1.right" timestamp="1627048125798">
+    <state width="1515" height="285" key="GridCell.Tab.1.right" timestamp="1627048674113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.1.right/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048125798" />
+    <state width="1515" height="285" key="GridCell.Tab.1.right/0.0.1536.824/352.-768.1360.728@0.0.1536.824" timestamp="1627048674113" />
     <state width="1899" height="326" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1624838102019" />
     <state x="391" y="254" key="SettingsEditor" timestamp="1624833888128">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -257,7 +257,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/06. Character Combinations.py</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
