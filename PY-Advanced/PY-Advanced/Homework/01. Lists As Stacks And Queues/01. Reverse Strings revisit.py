@@ -1,8 +1,12 @@
-data = list(input())
-reversed_word = []
+text = input()
+input_string = []
+for ch in text:
+    input_string.append(ch)
+result_string = []
 
-while len(data) > 0:
-    reversed_word.append(data[-1])
-    data.pop()
+while input_string:
+    current_ch = input_string[-1]
+    result_string.append(current_ch)
+    input_string.pop()
 
-print("".join(reversed_word))
+print("".join(result_string))
