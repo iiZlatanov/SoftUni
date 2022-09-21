@@ -1,19 +1,20 @@
 from collections import deque
 
+END_COMMAND = "End"
+PAID_COMMAND = "Paid"
 data = input()
-customers = deque()
-numbers = 0
+customers_names = deque()
 
 while True:
-    if data != "Paid" and data != "End":
-        customers.append(data)
-        numbers += 1
+    if data != PAID_COMMAND and data != END_COMMAND:
+        customers_names.append(data)
 
-    elif data == "Paid":
-        print("\n".join(customers))
-        customers = []
+    elif data == PAID_COMMAND:
+        print("\n".join(customers_names))
+        while customers_names:
+            customers_names.popleft()
 
-    elif data == "End":
-        print(f"{len(customers)} people remaining.")
+    elif data == END_COMMAND:
+        print(f"{len(customers_names)} people remaining.")
         break
     data = input()
