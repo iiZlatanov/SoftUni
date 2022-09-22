@@ -13,7 +13,7 @@ while True:
     if data == "End":
         print(f"{quantity_of_water} liters left")
         break
-    elif len(data) > 7:
+    elif len(data) > 7:# you can also use .startswith("refill")((ili da se napravi konstanta s string refill vytre i da se polzva elif data.startswith(konstantata v koqto ima refill kato string)))
         water = data.split()
         quantity_of_water += int(water[1])
         data = input()
