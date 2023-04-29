@@ -15,4 +15,3 @@ while True:
             print(names_deque.popleft())
     else:
         names_deque.append(command)
-
