@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/05. Hot Potato (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/03. Supermarket (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/03. Supermarket (revisit)-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/04. Water Dispenser (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/04. Water Dispenser (revisit)-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/03. Fast Food (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/03. Fast Food (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/04. Fashion Boutique (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/04. Fashion Boutique (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/05. Truck Tour (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/05. Truck Tour (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/06. Balanced Parentheses (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/06. Balanced Parentheses (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score) (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score) (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/05. Hot Potato (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/05. Hot Potato (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/01. Unique Usernames (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/01. Unique Usernames (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/02. Sets of Elements (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/02. Sets of Elements (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/03. Periodic Table (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/03. Periodic Table (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/04. Count Symbols (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/04. Count Symbols (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/06. Longest Intersection (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/06. Longest Intersection (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/07. Battle of Names (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/07. Battle of Names (revisit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/01. Count Same Values (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/01. Count Same Values (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/02. Average Student Grades (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/02. Average Student Grades (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/03. Record Unique Names (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/03. Record Unique Names (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/04. Parking Lot (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/04. Parking Lot (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/05. SoftUni Party (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/05. SoftUni Party (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +63,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.04. Water Dispenser (revisit)-2">
-    <configuration name="01. Reverse Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07. Battle of Names (revisit)">
+    <configuration name="03. Periodic Table (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/01. Reverse Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/03. Periodic Table (revisit).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Supermarket (revisit)-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Count Symbols (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/03. Supermarket (revisit)-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/04. Count Symbols (revisit).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Supermarket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. Longest Intersection (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/03. Supermarket.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/06. Longest Intersection (revisit).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Water Dispenser (revisit)-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Battle of Names (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/04. Water Dispenser (revisit)-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/07. Battle of Names (revisit).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04. Water Dispenser (revisit)-2" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.03. Supermarket" />
-        <item itemvalue="Python.03. Supermarket (revisit)-2" />
-        <item itemvalue="Python.01. Reverse Strings" />
+        <item itemvalue="Python.07. Battle of Names (revisit)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.06. Longest Intersection (revisit)" />
+        <item itemvalue="Python.04. Count Symbols (revisit)" />
+        <item itemvalue="Python.03. Periodic Table (revisit)" />
       </list>
     </recent_temporary>
   </component>
