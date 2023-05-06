@@ -1,13 +1,12 @@
-rows, columns = list(map(int, input().split(", ")))
-matrix = []
-total = 0
+data = [int(x) for x in input().split(", ")]
+result = []
+sum_of_nums = 0
 
-for i in range(rows):
-    numbers_data = list(map(int, input().split(", ")))
-    matrix.append([])
-    for element in numbers_data:
-        total += element
-        matrix[-1].append(element)
+for x in range(data[0]):
+    columns_data = [int(x) for x in input().split(", ")]
+    for el in columns_data:
+        sum_of_nums += el
+    result.append(columns_data)
 
-print(total)
-print(matrix)
+print(sum_of_nums)
+print(result)
