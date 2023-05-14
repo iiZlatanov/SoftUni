@@ -20,11 +20,10 @@ while True:
                 current_green_light_duration -= len(current_car)
                 successfully_passed_cars_counter += 1
             else:
-                print(f"A crash happened!\n{current_car} was hit at {}.")
+                print(f"A crash happened!\n{current_car} was hit at.")
                 flag = False
                 break
 
 
-
-if flag is True:
+if flag:
     print(f"Everyone is safe.\n{successfully_passed_cars_counter} total cars passed the crossroads.")
