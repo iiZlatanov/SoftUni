@@ -1,36 +1,22 @@
-from collections import deque
-from copy import copy
-
 rows, cols = [int(x) for x in input().split()]
-matrix = [[int(x) for x in input().split()]for _ in range(rows)]
+matrix = [input().split() for x in range(rows)]
 
-def is_the_command_valid(*args):
-    validity = False
+while True:
+    command, *info = [int(x) if x.isdigit() else str(x) for x in input().split()]
+    if command == "END":
+        break
+    if command == "swap":
+        if len(info) == 4:
+            coord_a, coord_b, coord_c, coord_d = [int(x) for x in info]
 
-    if len(args[0]) == 5:
-        if args[0][0] == "swap":
-            if int(args[0][1]) >= 0 and int(args[0][2]) >= 0:
-                if matrix[int(args[0][1])][int(args[0][2])]:
-                    if int(args[0][3]) >= 0 and int(args[0][4]) >= 0:
-                        if matrix[int(args[0][3])][int(args[0][4])]:
-                            validity = True
+            if command == "swap" and coord_a < rows and coord_c < rows and coord_b < cols and coord_d < cols:
+                matrix[coord_a][coord_b], matrix[coord_c][coord_d] = matrix[coord_c][coord_d], matrix[coord_a][coord_b]
 
-    return validity
-
-
-command = input()
-while command != "END":
-    if is_the_command_valid(command.split()):
-        command = command.split()
-        coord_a = int(command[1])
-        coord_b = int(command[2])
-        coord_c = int(command[3])
-        coord_d = int(command[4])
-        matrix_copy = copy(matrix)
-        matrix[coord_a][coord_b] = matrix_copy[coord_c][coord_d]
-        matrix[coord_c][coord_d] = matrix_copy[coord_a][coord_b]
-        print(matrix)
+                for el in matrix:
+                    print(" ".join(el))
+            else:
+                print("Invalid input!")
+        else:
+            print("Invalid input!")
     else:
         print("Invalid input!")
-
-    command = input()
