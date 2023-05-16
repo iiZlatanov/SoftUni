@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/01. Negative vs Positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/02. Keyword Arguments Length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/03. Even or Odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/04. Numbers Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/01. Multiplication Function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Stacked Queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Stacked Queries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/03. Fast Food (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/03. Fast Food (revisit).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/04. Fashion Boutique (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/04. Fashion Boutique (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/05. Truck Tour (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/05. Truck Tour (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/06. Balanced Parentheses (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/06. Balanced Parentheses (revisit).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score) (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/08. Crossroads (not included in final score) (revisit).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/05. Hot Potato (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/05. Hot Potato (revisit)-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/01. Unique Usernames (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/01. Unique Usernames (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/02. Sets of Elements (revisit).py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/02. Sets of Elements (revisit).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/01. Count Same Values (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/01. Count Same Values (revisit)-2.py" afterDir="false" />
@@ -24,17 +31,26 @@
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/01. Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/01. Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/02. Expression Evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/02. Expression Evaluator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/3. Milkshakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/3. Milkshakes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/5. Santa's Present Factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/5. Santa's Present Factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/6. Paint Colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/6. Paint Colors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/03. Milkshakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/03. Milkshakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/04. Honey.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/04. Honey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/05. Santa's Present Factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/05. Santa's Present Factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/06. Paint Colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/06. Paint Colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/01. Diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/01. Diagonals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/02. Diagonal Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/02. Diagonal Difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/03. 2x2 Squares in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/03. 2x2 Squares in Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/04. Maximal Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/04. Maximal Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/05. Matrix of Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/05. Matrix of Palindromes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/06. Matrix Shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/06. Matrix Shuffling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Diagonal Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Diagonal Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Diagonals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Flatten Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/01. Flatten Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. 2x2 Squares in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. 2x2 Squares in Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. Diagonal Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. Diagonal Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. Matrix Modification.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/02. Matrix Modification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/03. 2x2 Squares in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/03. 2x2 Squares in Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/03. Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/03. Maximum Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/04. Matrix Shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/04. Matrix Shuffling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/04. Maximal Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/04. Maximal Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/05. Matrix of Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/05. Matrix of Palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/05. Snake Moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/05. Snake Moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/06. Knight Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/06. Knight Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/07. Snake Moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/07. Snake Moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/02. Even Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/02. Even Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/03. Flattening Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/03. Flattening Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/04. Sum Matrix Columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/04. Sum Matrix Columns.py" afterDir="false" />
@@ -42,6 +58,12 @@
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/06. Symbol in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/06. Symbol in Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/07. Square with Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/07. Square with Maximum Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/03. Chat Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/03. Chat Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/05. Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/05. Orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/06. String Pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/06. String Pureness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/07. Double Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/07. Double Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/08. How Much Coffee Do You Need.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/08. How Much Coffee Do You Need.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/09. Sorting Hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/09. Sorting Hat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +100,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.06. Matrix Shuffling">
-    <configuration name="06. Longest Intersection (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04. Numbers Filter">
+    <configuration name="01. Multiplication Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/06. Longest Intersection (revisit).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/01. Multiplication Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Matrix Shuffling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Negative vs Positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/06. Matrix Shuffling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/01. Negative vs Positive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Battle of Names (revisit)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Keyword Arguments Length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/07. Battle of Names (revisit).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/02. Keyword Arguments Length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Even or Odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/03. Even or Odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Numbers Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02. Tuples And Sets Exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/04. Numbers Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06. Matrix Shuffling" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.07. Battle of Names (revisit)" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.06. Longest Intersection (revisit)" />
+        <item itemvalue="Python.04. Numbers Filter" />
+        <item itemvalue="Python.03. Even or Odd" />
+        <item itemvalue="Python.02. Keyword Arguments Length" />
+        <item itemvalue="Python.01. Negative vs Positive" />
+        <item itemvalue="Python.01. Multiplication Function" />
       </list>
     </recent_temporary>
   </component>
@@ -257,16 +279,6 @@
           <url>file://$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/06. Character Combinations.py</url>
           <line>13</line>
           <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/06. Matrix Shuffling.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise/06. Matrix Shuffling.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
