@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/01. Negative vs Positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/02. Keyword Arguments Length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/03. Even or Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/04. Numbers Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/01. Multiplication Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/03. Hourly Forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/01. Climb The Peaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/02. Navy Battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/01. Reverse Numbers with a Stack (revisit)-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/01. Lists As Stacks And Queues Exercise/02. Maximum and Minimum Element (revisit)-2.py" afterDir="false" />
@@ -58,6 +58,10 @@
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/06. Symbol in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/06. Symbol in Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/07. Square with Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/07. Square with Maximum Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/01. Energy Drinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/01. Energy Drinks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/2. Rally Racing.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/2. Rally Racing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/03. Chat Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/03. Chat Codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/05. Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/05. Orders.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/06. String Pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Fundamentals/Homework/01. Basic Syntax, Conditional Statements and Loops Exercise/06. String Pureness.py" afterDir="false" />
@@ -91,79 +95,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ivaylozlatanov/Library/CloudStorage/OneDrive-Personal/UNI/Programming/Repo/SoftUni&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ivaylozlatanov/Library/CloudStorage/OneDrive-Personal/UNI/Programming/Repo/SoftUni - Main Course",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.04. Numbers Filter">
-    <configuration name="01. Multiplication Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/01. Multiplication Function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01. Negative vs Positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/01. Negative vs Positive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02. Keyword Arguments Length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/02. Keyword Arguments Length.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Python.test">
     <configuration name="03. Even or Odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,6 +118,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/03. Even or Odd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Hourly Forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/03. Hourly Forecast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Student Credits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,13 +189,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.03. Student Credits" />
+        <item itemvalue="Python.03. Hourly Forecast" />
         <item itemvalue="Python.04. Numbers Filter" />
         <item itemvalue="Python.03. Even or Odd" />
-        <item itemvalue="Python.02. Keyword Arguments Length" />
-        <item itemvalue="Python.01. Negative vs Positive" />
-        <item itemvalue="Python.01. Multiplication Function" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +283,10 @@
           <url>file://$PROJECT_DIR$/PY-Advanced/Homework/05. Functions Advanced/06. Character Combinations.py</url>
           <line>13</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Exam - 22 October 2022/03. Hourly Forecast.py</url>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
