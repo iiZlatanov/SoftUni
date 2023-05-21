@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/02. Navy Battle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/02. Navy Battle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.02. Navy Battle">
+  <component name="RunManager" selected="Python.03. Student Credits">
     <configuration name="01. Climb The Peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Alice in Wonderland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Student Credits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists Exercise 1 &amp; 2/05. Alice in Wonderland.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. Student Credits" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.02. Navy Battle" />
         <item itemvalue="Python.01. Climb The Peaks" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.05. Alice in Wonderland" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +242,10 @@
           <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/02. Navy Battle.py</url>
           <line>2</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Python Advanced Retake Exam - 14 December 2022/03. Student Credits.py</url>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
