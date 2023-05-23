@@ -2,15 +2,12 @@ a = 5
 b = 6
 def movie_organizer(*args):
     collection_dict = {}
-    for data in args:
-        movie = data[0]
-        genre = data[1]
+    for movie, genre in args:
         if genre not in collection_dict:
-            collection_dict[genre] = [movie]
-        else:
-            collection_dict[genre].append(movie)
+            collection_dict[genre] = []
+        collection_dict[genre].append(movie)
 
-    sorted_result = sorted(collection_dict.items(), key=lambda x: -len(x[1]))
+    sorted_result = sorted(collection_dict.items(), key=lambda x: (-len(x[1]), x[0]))
 
     result = ""
     for genre, movie_name in sorted_result:
