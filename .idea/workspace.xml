@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/07. File Handling Exercise/directory_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/07. File Handling Exercise/even_lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/07. File Handling Exercise/file_manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/07. File Handling Exercise/ine_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/01. Christmas Elves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/02. Pawn Wars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/03. Words Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/descriptions.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/GitHub/SoftUni---Main-Course&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/SoftUni---Main-Course",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Python.test (2)">
-    <configuration name="email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\Exam Preparation\Exam Preparation - Python Advanced - май 2023" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.03. Words Sorting">
+    <configuration name="01. Christmas Elves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/06. Error Handling Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/06. Error Handling Exercise/email_validator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/01. Christmas Elves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Pawn Wars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/06. Error Handling Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\06. Error Handling Exercise\numbers_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/02. Pawn Wars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Words Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/02.1. Stacks, Queues, Tuples and Sets Exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/03. Words Sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/06. Error Handling Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/06. Error Handling Exercise/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. Words Sorting" />
+        <item itemvalue="Python.02. Pawn Wars" />
+        <item itemvalue="Python.01. Christmas Elves" />
+        <item itemvalue="Python.test (3)" />
         <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.email_validator" />
-        <item itemvalue="Python.numbers_dictionary" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +259,16 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced Exercise/09. Recursion Palindrome.py</url>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/01. Christmas Elves.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/02. Pawn Wars.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
