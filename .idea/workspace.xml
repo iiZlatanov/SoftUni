@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II/01. Flower Finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II/02. Martian Explorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II/03. Naughty or Nice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II/descriptions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/01. Temple of Doom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/01. Temple of Doom_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/02. Mouse In The Kitchen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/02. Mouse In The Kitchen_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/03. Enrollment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/03. Enrollment_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/01. Christmas Elves.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - I/01. Christmas Elves.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/02. Pawn Wars.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - I/02. Pawn Wars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/03. Words Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - I/03. Words Sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/descriptions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - I/descriptions.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +51,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Exam" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\Exam Preparation\Exam Preparation - Python Advanced - May 2023 - II" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\Exam Preparation\Exam Preparation - Python Advanced - май 2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02. Martian Explorer">
-    <configuration name="01. Flower Finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="01. Temple of Doom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - May 2023 - II/01. Flower Finder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/01. Temple of Doom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Pawn Wars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Mouse In The Kitchen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/02. Pawn Wars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/02. Mouse In The Kitchen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Words Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Enrollment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/Exam Preparation/Exam Preparation - Python Advanced - май 2023/03. Words Sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/03. Enrollment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/05. Functions Advanced/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Exam/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.03. Enrollment" />
+        <item itemvalue="Python.02. Mouse In The Kitchen" />
+        <item itemvalue="Python.01. Temple of Doom" />
         <item itemvalue="Python.02. Martian Explorer" />
-        <item itemvalue="Python.01. Flower Finder" />
-        <item itemvalue="Python.test (3)" />
-        <item itemvalue="Python.03. Words Sorting" />
-        <item itemvalue="Python.02. Pawn Wars" />
       </list>
     </recent_temporary>
   </component>
