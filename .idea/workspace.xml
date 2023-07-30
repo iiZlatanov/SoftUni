@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Exam/01. Experience Gaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Exam/02. Tax Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Exam/03. The Angry Cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Final Exam/01. Decrypting Commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Final Exam/02. Boss Rush.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Final Exam/03. Messages Manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Fundamentals/Final Exam/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Exam/01. Experience Gaining.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Exam/02. Tax Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Fundamentals/Exam/03. The Angry Cat.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +57,8 @@
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\Exam Preparation\Exam Preparation - Python Advanced - май 2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test2">
-    <configuration name="01. Experience Gaining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test (2)">
+    <configuration name="01. Decrypting Commands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Exam/01. Experience Gaining.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam/01. Decrypting Commands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Tax Calculator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Boss Rush" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Exam/02. Tax Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam/02. Boss Rush.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. The Angry Cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Messages Manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Exam/03. The Angry Cat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam/03. Messages Manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Exam/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-Advanced/Homework/03. Multidimensional Lists/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Exam/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Fundamentals/Final Exam/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.03. The Angry Cat" />
-        <item itemvalue="Python.02. Tax Calculator (1)" />
-        <item itemvalue="Python.01. Experience Gaining" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.03. Messages Manager" />
+        <item itemvalue="Python.01. Decrypting Commands" />
+        <item itemvalue="Python.02. Boss Rush" />
+        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +288,11 @@
           <url>file://$PROJECT_DIR$/PY-Fundamentals/Exam/02. Tax Calculator.py</url>
           <line>9</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Fundamentals/Exam/test.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
