@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/01. vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/02. time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,28 +60,7 @@
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-Advanced\Homework\Exam Preparation\Exam Preparation - Python Advanced - май 2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02. time">
-    <configuration name="02. point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/02. point.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration name="02. time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="guild" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/03. guild/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/03. circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/03. guild/project/guild.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. glass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="player (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/03. guild/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/04. glass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/03. guild/project/player.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. smartphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +132,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/05. smartphone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/project/player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.guild" />
+        <item itemvalue="Python.player (1)" />
+        <item itemvalue="Python.player" />
         <item itemvalue="Python.02. time" />
-        <item itemvalue="Python.05. smartphone" />
-        <item itemvalue="Python.04. glass" />
-        <item itemvalue="Python.03. circle" />
-        <item itemvalue="Python.02. point" />
       </list>
     </recent_temporary>
   </component>
