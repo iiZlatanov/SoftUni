@@ -5,125 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/01_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/02_mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/03_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/04_email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/05_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/descriptions.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/topping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/descriptions.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/01.shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/01.shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/02.hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/02.hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/03.employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/03.employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/04.cup.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/04.cup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/05.flower.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/05.flower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/06.steam_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/06.steam_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/07.programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/07.programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/descriptions June 2023.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/descriptions June 2023.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/pokemon_battle/pokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/pokemon_battle/pokemon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/pokemon_battle/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/pokemon_battle/trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/project pokemon_battle.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/project pokemon_battle.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/01. First steps in OOP Exercise/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. First steps in OOP Exercise/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/01. vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/01. vet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/02. time.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/02. time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/05. to-do list/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/05. to-do list/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/05. to-do list/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/05. to-do list/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/05. to-do list/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/05. to-do list/project/section.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/05. to-do list/project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/05. to-do list/project/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/06. guild/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/06. guild/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/06. guild/project/guild.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/06. guild/project/guild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/06. guild/project/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/06. guild/project/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/07. spoopify/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/album.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/07. spoopify/project/album.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/band.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/07. spoopify/project/band.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/07. spoopify/project/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/07. spoopify/project/song.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/08. library/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/library.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/08. library/project/library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/08. library/project/registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/08. library/project/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/08. library/project/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects Exercise/descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/04. Classes and Objects Exercise/descriptions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/01. vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/01. vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/02. point.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/02. point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/03. circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/03. circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/04. glass.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/04. glass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/05. smartphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/05. smartphone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/descriptions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/02. Classes and Objects/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Classes and Objects/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/01_person/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/01_person/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/01_person/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/01. food/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/01_person/project/child.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/01_person/project/child.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/01_person/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/01_person/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/01_person/project/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/01_person/project/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/02. single_inheritance/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/bear.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/bear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/gorilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/gorilla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/lizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/lizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/mammal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/reptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/reptile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/02_zoo/project/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/blade_knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/blade_knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/dark_knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/dark_knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/dark_wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/dark_wizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/elf.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/elf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/muse_elf.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/muse_elf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/soul_master.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/soul_master.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/03_players_and_monsters/project/wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/wizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/cross_motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/cross_motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/family_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/family_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/race_motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/race_motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/sport_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/sport_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/04_need_for_speed/project/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/05. hierarchical_inheritance/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/drink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/05_shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/product_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance Exercise/descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/descriptions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/01. food/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/01. food/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/01. food/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/01_person/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/01. food/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/01. food/project/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/01. food/project/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/01. food/project/fruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/02. single_inheritance/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/02. single_inheritance/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/02. single_inheritance/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/02_zoo/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/02. single_inheritance/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/02. single_inheritance/project/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/02. single_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/02. single_inheritance/project/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/02. single_inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/02. single_inheritance/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/03_players_and_monsters/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project/employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/03. multiple_inheritance/project/teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/03. multiple_inheritance/project/teacher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/04_need_for_speed/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project/sports_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project/sports_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/04. multilevel_inheritance/project/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/04. multilevel_inheritance/project/vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/05. hierarchical_inheritance/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/05. hierarchical_inheritance/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/05. hierarchical_inheritance/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/06. Inheritance Exercise/05_shop/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/05. hierarchical_inheritance/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/05. hierarchical_inheritance/project/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/05. hierarchical_inheritance/project/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/05. hierarchical_inheritance/project/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/05. hierarchical_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/05. hierarchical_inheritance/project/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/06. stack_of_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/06. stack_of_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/03. Inheritance/descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/05. Inheritance/descriptions.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,15 +84,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\03_foorball_team_generator\project" />
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\01_wild_cat_zoo\project" />
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\07. Encapsulation" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\03. Inheritance Exercise" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\03. Inheritance\04. multilevel_inheritance\project" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\02. Classes and Objects" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Fundamentals\Homework\Mid Exam Preparation\3 Prep before mid exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_account">
-    <configuration name="02_mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/02_mammal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/03_profile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/04_restaurant/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/04_email_validator.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\03_foorball_team_generator\project\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/05_account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/02_pizza_maker/project/pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="team (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,11 +184,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator/project/team.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="team" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/03_foorball_team_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\03_foorball_team_generator\project\team.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_account" />
-        <item itemvalue="Python.04_email_validator" />
-        <item itemvalue="Python.03_profile" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.02_mammal" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.team (1)" />
+        <item itemvalue="Python.team" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -415,6 +357,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/07. Encapsulation/03_profile.py</url>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/08. Encapsulation Exercise/01_wild_cat_zoo/project/main.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
