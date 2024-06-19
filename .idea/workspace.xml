@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/02_image_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/03_playing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/04_shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/descriptions.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/01_vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/03_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/descriptions.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,14 +48,35 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\12. Polymorphism and Abstraction Exercise" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\11. Polymorphism and Abstraction" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\10. Static and Class Methods Exercise" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\03_foorball_team_generator\project" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\01_wild_cat_zoo\project" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_playing">
+  <component name="RunManager" selected="Python.03_account">
+    <configuration name="01_vehicles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/01_vehicles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="02_image_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +90,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/02_image_area.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/03_account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,27 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/10. Static and Class Methods Exercise/02_movie_world/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/10. Static and Class Methods Exercise/02_movie_world/project/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,34 +161,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/10. Static and Class Methods Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/10. Static and Class Methods Exercise/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_account" />
+        <item itemvalue="Python.01_vehicles" />
         <item itemvalue="Python.03_playing" />
         <item itemvalue="Python.02_image_area" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
