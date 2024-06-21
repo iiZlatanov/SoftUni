@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/01_vehicles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/03_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/descriptions.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/04_wild_farm/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/kitten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/05_animals/project/tomcat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/f1_season_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/formula_teams/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/formula_teams/formula_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/formula_teams/mercedes_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/formula_teams/red_bull_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +72,7 @@
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\08. Encapsulation Exercise\01_wild_cat_zoo\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_account">
+  <component name="RunManager" selected="Python tests.Python tests for test.TestF1SeasonAppClass.test_practice">
     <configuration name="01_vehicles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,34 +157,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestF1SeasonAppClass.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestF1SeasonAppClass.test_practice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test.TestF1SeasonAppClass.test_practice" />
         <item itemvalue="Python.03_account" />
         <item itemvalue="Python.01_vehicles" />
         <item itemvalue="Python.03_playing" />
         <item itemvalue="Python.02_image_area" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +330,11 @@
           <url>file://$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/10. Static and Class Methods Exercise/01_photo_album.py</url>
           <line>42</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project/test.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
