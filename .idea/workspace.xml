@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise/emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise/prisoner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise/workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise/workers_updated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/01_custom_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/02_reverse_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/03_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/description.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,15 +49,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise" />
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/13. SOLID" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\12. Polymorphism and Abstraction Exercise" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\11. Polymorphism and Abstraction" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\10. Static and Class Methods Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.workers">
-    <configuration name="01_vehicles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_vowels">
+    <configuration name="01_custom_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/01_vehicles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/01_custom_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_reverse_iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/03_account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/02_reverse_iter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_playing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +107,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/11. Polymorphism and Abstraction/03_playing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/03_vowels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,27 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestF1SeasonAppClass.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/12. Polymorphism and Abstraction Exercise/06_formula_1_manager/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestF1SeasonAppClass.test_practice&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_vowels" />
+        <item itemvalue="Python.02_reverse_iter" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.01_custom_range" />
         <item itemvalue="Python.workers" />
-        <item itemvalue="Python tests.Python tests for test.TestF1SeasonAppClass.test_practice" />
-        <item itemvalue="Python.03_account" />
-        <item itemvalue="Python.01_vehicles" />
-        <item itemvalue="Python.03_playing" />
       </list>
     </recent_temporary>
   </component>
