@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/01_take_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/02_dictionary_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/03_countdown_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/04_sequence_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/05_take_halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/06_fibonnaci_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/descriptions.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/01_number_increment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/02_vowel_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/descriptions.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators/~$scription.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +48,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\17. Decorators" />
       <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\16. Iterators and Generators Exercise" />
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/15. Iterators and Generators" />
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/14. SOLID Exercise" />
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/13. SOLID" />
-      <recent name="C:\Users\User\Documents\GitHub\SoftUni---Main-Course-PY\PY-Advanced\PY-OOP\Homework\12. Polymorphism and Abstraction Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_fibonnaci_generator">
-    <configuration name="02_dictionary_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_number_increment">
+    <configuration name="01_number_increment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/02_dictionary_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/01_number_increment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_number_increment" />
         <item itemvalue="Python.06_fibonnaci_generator" />
         <item itemvalue="Python.05_take_halves" />
         <item itemvalue="Python.04_sequence_repeat" />
         <item itemvalue="Python.03_countdown_iterator" />
-        <item itemvalue="Python.02_dictionary_iterator" />
       </list>
     </recent_temporary>
   </component>
