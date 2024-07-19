@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cbeddf-22d9-42a5-92b8-cc608c3498ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/01_number_increment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/02_vowel_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/descriptions.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/02_vowel_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/02_vowel_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <recent name="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/13. SOLID" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_number_increment">
+  <component name="RunManager" selected="Python.02_vowel_filter">
     <configuration name="01_number_increment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_countdown_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_vowel_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/16. Iterators and Generators Exercise/03_countdown_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY-Advanced/PY-OOP/Homework/17. Decorators/02_vowel_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_vowel_filter" />
         <item itemvalue="Python.01_number_increment" />
         <item itemvalue="Python.06_fibonnaci_generator" />
         <item itemvalue="Python.05_take_halves" />
         <item itemvalue="Python.04_sequence_repeat" />
-        <item itemvalue="Python.03_countdown_iterator" />
       </list>
     </recent_temporary>
   </component>
